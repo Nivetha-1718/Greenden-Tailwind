@@ -15,7 +15,7 @@
 - **TailwindCSS**: Manages the styling and layout of the websites. 
 
 ## Live Demo:
-   Check out the live version of the Greenden Project[link]
+   Check out the live version of the Greenden Project[https://nivetha-1718.github.io/Greenden-Tailwind/]
 
 ## Tailwind CSS:
 
